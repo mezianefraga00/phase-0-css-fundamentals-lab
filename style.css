@@ -1,5 +1,37 @@
-body {
-  width: 100%;
-  height: 100%;
-  margin: 0;
+.myDiv {
+  left: 50%;
+    
+    text-align: center;
+
 }
+.myDiv nav{
+  padding-left: 10%;
+  padding-right: 10%;
+}
+.myDiv nav a{
+  background-color: grey;
+}
+
+.myDiv p{
+  margin-left: 20%;
+  margin-right: 20%;
+  text-align: center;
+}
+#details
+{overflow: auto;
+  
+  background: red;
+ 
+}
+#details div{
+  
+  float:left;
+   
+  margin-left: 10%;
+}
+.a, .b, .c, .d {
+ 
+
+}
+
+
